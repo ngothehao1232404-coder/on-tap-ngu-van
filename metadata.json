@@ -1,0 +1,6 @@
+{
+  "name": "Ngữ Văn 7 - Cẩm Nang Học Tốt & Khám Phá Văn Học",
+  "description": "Ứng dụng học tập toàn diện Ngữ văn lớp 7: Đọc hiểu tác phẩm, Thực hành tiếng Việt, Kỹ năng viết bài, Sơ đồ tư duy và Luyện đề trắc nghiệm thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
